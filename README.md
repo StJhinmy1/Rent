@@ -1,1 +1,1 @@
-Simulação de aluguel de quartos em um hotel com registro de nome, email e o quarto desejado pelo cliente
+Exercício feito em aula acompanhado de melhorias e/ou modificações feitas por mim para testar meu aprendizado
